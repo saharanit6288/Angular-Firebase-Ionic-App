@@ -7,7 +7,7 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
 import * as firebase from 'firebase';
 
 const config = {
-  apiKey: "AIzaSyAfVK4GAo2x6d4BLrS3gB7ne_CzJQ9e10c",
+  apiKey: "xxx",
   authDomain: "ronittest-f1429.firebaseapp.com",
   databaseURL: "https://ronittest-f1429.firebaseio.com",
   projectId: "ronittest-f1429",
